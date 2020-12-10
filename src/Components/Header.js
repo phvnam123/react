@@ -9,6 +9,13 @@ class Header extends Component {
                     </h1>
                     <p className="lead"> với dữ liệu json</p>
                     <hr className="my-2" />
+                    <h1>namanma</h1>
+                    <h1>namanma</h1>
+                    <h1>namanma</h1>
+                    <h1>namanma</h1>
+                    <h1>namanma</h1>
+                    <h1>namanma</h1>
+                    <h1>namanma</h1>
                 </div>
                 </div>
 

@@ -66,6 +66,10 @@ class Search extends Component {
                 
                 </div>
                 <h1>namanma</h1>
+                <h1>namanma</h1>
+                <h1>namanma</h1>
+                <h1>namanma</h1>
+                <h1>namanma</h1>
                 </div>
                 <hr/>
             </div>

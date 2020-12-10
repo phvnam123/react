@@ -65,6 +65,7 @@ class Search extends Component {
                      {this.hienThiNut()}
                 
                 </div>
+                <h1>namanma</h1>
                 </div>
                 <hr/>
             </div>
